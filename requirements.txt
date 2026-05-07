@@ -1,0 +1,22 @@
+# Data Manipulation & Finance
+pandas
+numpy
+yfinance
+scipy
+pandas_ta
+
+# NLP & Sentiment
+nltk
+vaderSentiment
+textblob
+transformers
+torch
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Testing & Quality
+pytest
+python-dotenv
