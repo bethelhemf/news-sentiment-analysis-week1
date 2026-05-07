@@ -11,6 +11,8 @@ vaderSentiment
 textblob
 transformers
 torch
+nltk
+scikit-learn
 
 # Visualization
 matplotlib
@@ -20,3 +22,4 @@ plotly
 # Testing & Quality
 pytest
 python-dotenv
+
